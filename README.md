@@ -3,7 +3,7 @@
 Welcome to **Basic Calculator** – a sleek and functional calculator app built using **Kotlin** and **Jetpack Compose**! 🚀
 
 ## 🖥️ Screenshots
-<img src="https://github.com/RJDP05/Basic-Calculator/blob/20a7e3d6a878e71aa37a20332ebbe97d238e55df/Cal_SS1.jpg" alt="image alt" width="300">     <img src="https://github.com/RJDP05/Basic-Calculator/blob/20a7e3d6a878e71aa37a20332ebbe97d238e55df/Cal_SS2.jpg" alt="image alt" width="300">     <img src="https://github.com/RJDP05/Basic-Calculator/blob/20a7e3d6a878e71aa37a20332ebbe97d238e55df/Cal_SS3.jpg" alt="image alt" width="300">
+<img src="https://github.com/RJDP05/Basic-Calculator/blob/20a7e3d6a878e71aa37a20332ebbe97d238e55df/Cal_SS1.jpg" alt="image alt" width="250">     <img src="https://github.com/RJDP05/Basic-Calculator/blob/20a7e3d6a878e71aa37a20332ebbe97d238e55df/Cal_SS2.jpg" alt="image alt" width="250">     <img src="https://github.com/RJDP05/Basic-Calculator/blob/20a7e3d6a878e71aa37a20332ebbe97d238e55df/Cal_SS3.jpg" alt="image alt" width="250">
 
 
 
